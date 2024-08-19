@@ -2,7 +2,7 @@
   "id": "the-secret-world",
   "title": "The Secret World",
   "version": "1.0.0",
-  "compatibility": {}
+  "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
