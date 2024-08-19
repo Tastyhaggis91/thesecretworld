@@ -69,103 +69,15 @@
   },
   "packs": [
     {
-      "name": "buzzing",
-      "label": "Buzzing",
-      "path": "packs/buzzing",
-      "type": "JournalEntry",
-      "system": "alienrpg",
+      "name": "the-secret-world",
+      "label": "The Secret World",
+      "path": "packs/the-secret-world",
+      "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "conditions",
-      "label": "Conditions",
-      "path": "packs/conditions",
-      "type": "Item",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "equipment",
-      "label": "Equipment",
-      "path": "packs/equipment",
-      "type": "Item",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "npcs",
-      "label": "NPCs",
-      "path": "packs/npcs",
-      "type": "Actor",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "rules",
-      "label": "Rules",
-      "path": "packs/rules",
-      "type": "JournalEntry",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells",
-      "label": "Spells",
-      "path": "packs/spells",
-      "type": "Item",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "tsw-tables",
-      "label": "tsw-tables",
-      "path": "packs/tsw-tables",
-      "type": "RollTable",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "weapons",
-      "label": "Weapons",
-      "path": "packs/weapons",
-      "type": "Item",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "wearables",
-      "label": "Wearables",
-      "path": "packs/wearables",
-      "type": "Item",
-      "system": "alienrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      },
+      "system": "alienrpg"
     }
   ]
 }
