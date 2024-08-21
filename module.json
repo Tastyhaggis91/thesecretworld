@@ -2,6 +2,7 @@
   "id": "the-secret-world",
   "title": "The Secret World",
   "version": "1.0.0",
+  "download": "https://github.com/Tastyhaggis91/thesecretworld/archive/refs/tags/TSW.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
